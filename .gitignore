@@ -1,0 +1,68 @@
+# === Unreal Engine Standard ===
+# Build artifacts
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Project user settings (local)
+.vs/
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.log
+*.tlog
+*.tmp
+
+# Launcher & Cache
+*.pidb
+*.sln.docstates
+*.user
+*.userprefs
+*.ncb
+*.cache
+*.pdb
+*.db
+*.opendb
+*.sbr
+
+# Mac-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# VSCode & Rider
+.vscode/
+.idea/
+
+# Crash logs and auto-saves
+*.backup
+*.autosave
+*.dmp
+
+# Unreal-specific temp
+*.xcodeproj/
+DerivedDataCache/
+Saved/
+Script/
+ScriptAssemblies/
+
+# Optional: ignore compiled shaders (unless you want to track them)
+ShadersWorkingDir/
+Engine/Intermediate/
+Engine/Saved/
+
+# Optional: ignore generated plugins
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+
+# If you're packaging builds
+# (don't include final cooked builds in versioning)
+Builds/
+Releases/
