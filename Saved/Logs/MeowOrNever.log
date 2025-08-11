@@ -1398,3 +1398,558 @@ FPackageName: Skipped package /Game/Fab/Flower_With_Vase/flower_with_vase/Materi
 [2025.08.11-17.33.40:167][227]LogBlueprintUserMessages: [Paper2D_Cat_C_1] Interact
 [2025.08.11-17.33.49:176][ 37]LogBlueprintUserMessages: [SleepingSpot_C_1] Slept
 [2025.08.11-17.33.50:592][175]LogBlueprintUserMessages: [SleepingSpot_C_1] Can NOT Interact
+[2025.08.11-17.34.48:925][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.34.48:925][551]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2025.08.11-17.34.48:925][551]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-17.34.48:926][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.34.48:928][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-17.34.48:933][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.34.48:962][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.34.48:962][551]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.08.11-17.34.48:962][551]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.08.11-17.34.48:964][551]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.08.11-17.34.49:006][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.11-17.34.49:040][552]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.08.11-17.35.06:940][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5077.409668
+[2025.08.11-17.35.07:940][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-17.35.07:940][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5078.076660, Update Interval: 349.590149
+[2025.08.11-17.38.51:158][395]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 E:/CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing1.wav)
+[2025.08.11-17.38.51:183][395]LogSlate: Took 0.001691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.08.11-17.38.51:315][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-17.38.51:355][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Audio_Cat_Meowing1] ([1] browsable assets)...
+[2025.08.11-17.38.51:360][396]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Audio_Cat_Meowing1.Audio_Cat_Meowing1]
+[2025.08.11-17.38.51:360][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Audio_Cat_Meowing1]
+[2025.08.11-17.38.51:360][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Audio_Cat_Meowing1" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing1.uasset" SILENT=true
+[2025.08.11-17.38.51:372][396]LogSavePackage: Moving output files for package: /Game/Audio/Audio_Cat_Meowing1
+[2025.08.11-17.38.51:372][396]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Audio_Cat_Meowing16C292B12402EBDD19D923EBA7F53816D.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing1.uasset'
+[2025.08.11-17.38.51:387][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.105 ms (total: 318.296 ms)
+[2025.08.11-17.38.51:395][396]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-17.38.51:692][397]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-17.38.51:692][397]LogContentValidation: Enabled validators:
+[2025.08.11-17.38.51:692][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-17.38.51:692][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-17.38.51:692][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-17.38.51:692][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-17.38.51:692][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-17.38.51:692][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-17.38.51:692][397]AssetCheck: /Game/Audio/Audio_Cat_Meowing1 Validation de la ressource
+[2025.08.11-17.38.54:646][406]AssetReimport: Importation d'une nouvelle ressource /Game/Audio/Audio_Cat_Meowing1.
+[2025.08.11-17.40.11:343][636]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 E:/CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing2.wav)
+[2025.08.11-17.40.11:350][636]LogAudioDerivedData: Display: Audio_Cat_Meowing2 compressé à 32.95 % (de 75 Ko à 24 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.08.11-17.40.11:351][636]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Audio_Cat_Meowing2.Audio_Cat_Meowing2: Duration=0.81 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=25537 bytes, ChunkN=0)
+[2025.08.11-17.40.11:351][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-17.40.11:462][636]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Audio_Cat_Meowing2] ([1] browsable assets)...
+[2025.08.11-17.40.11:465][636]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Audio_Cat_Meowing2.Audio_Cat_Meowing2]
+[2025.08.11-17.40.11:465][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Audio_Cat_Meowing2]
+[2025.08.11-17.40.11:465][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Audio_Cat_Meowing2" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing2.uasset" SILENT=true
+[2025.08.11-17.40.11:468][636]LogSavePackage: Moving output files for package: /Game/Audio/Audio_Cat_Meowing2
+[2025.08.11-17.40.11:468][636]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Audio_Cat_Meowing268F9C059427F7CE8A62D78A4EBE04483.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing2.uasset'
+[2025.08.11-17.40.11:532][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.264 ms (total: 499.560 ms)
+[2025.08.11-17.40.11:539][636]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-17.40.11:697][637]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-17.40.11:697][637]LogContentValidation: Enabled validators:
+[2025.08.11-17.40.11:697][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-17.40.11:697][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-17.40.11:697][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-17.40.11:697][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-17.40.11:697][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-17.40.11:697][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-17.40.11:698][637]AssetCheck: /Game/Audio/Audio_Cat_Meowing2 Validation de la ressource
+[2025.08.11-17.40.14:659][646]AssetReimport: Importation d'une nouvelle ressource /Game/Audio/Audio_Cat_Meowing2.
+[2025.08.11-17.40.40:016][722]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 E:/CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing3.wav)
+[2025.08.11-17.40.40:026][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-17.40.40:027][722]LogAudioDerivedData: Display: Audio_Cat_Meowing3 compressé à 33.28 % (de 91 Ko à 30 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.08.11-17.40.40:027][722]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Audio_Cat_Meowing3.Audio_Cat_Meowing3: Duration=0.98 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=31185 bytes, ChunkN=0)
+[2025.08.11-17.40.40:156][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Audio_Cat_Meowing3] ([1] browsable assets)...
+[2025.08.11-17.40.40:167][722]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Audio_Cat_Meowing3.Audio_Cat_Meowing3]
+[2025.08.11-17.40.40:167][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Audio_Cat_Meowing3]
+[2025.08.11-17.40.40:167][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Audio_Cat_Meowing3" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing3.uasset" SILENT=true
+[2025.08.11-17.40.40:171][722]LogSavePackage: Moving output files for package: /Game/Audio/Audio_Cat_Meowing3
+[2025.08.11-17.40.40:171][722]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Audio_Cat_Meowing3D399D5E040C4034BDD78CF8C8794F1F8.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing3.uasset'
+[2025.08.11-17.40.40:207][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.200 ms (total: 679.761 ms)
+[2025.08.11-17.40.40:214][722]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-17.40.40:373][723]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-17.40.40:373][723]LogContentValidation: Enabled validators:
+[2025.08.11-17.40.40:373][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-17.40.40:373][723]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-17.40.40:373][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-17.40.40:373][723]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-17.40.40:373][723]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-17.40.40:373][723]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-17.40.40:373][723]AssetCheck: /Game/Audio/Audio_Cat_Meowing3 Validation de la ressource
+[2025.08.11-17.40.43:332][732]AssetReimport: Importation d'une nouvelle ressource /Game/Audio/Audio_Cat_Meowing3.
+[2025.08.11-17.40.58:347][777]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 E:/CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing4.wav)
+[2025.08.11-17.40.58:354][777]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde Audio_Cat_Meowing4...
+[2025.08.11-17.40.58:357][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-17.40.58:358][777]LogAudioDerivedData: Display: Audio_Cat_Meowing4 compressé à 33.12 % (de 106 Ko à 35 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.08.11-17.40.58:358][777]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Audio_Cat_Meowing4.Audio_Cat_Meowing4: Duration=1.14 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=36209 bytes, ChunkN=0)
+[2025.08.11-17.40.58:466][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Audio_Cat_Meowing4] ([1] browsable assets)...
+[2025.08.11-17.40.58:471][777]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Audio_Cat_Meowing4.Audio_Cat_Meowing4]
+[2025.08.11-17.40.58:471][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Audio_Cat_Meowing4]
+[2025.08.11-17.40.58:471][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Audio_Cat_Meowing4" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing4.uasset" SILENT=true
+[2025.08.11-17.40.58:474][777]LogSavePackage: Moving output files for package: /Game/Audio/Audio_Cat_Meowing4
+[2025.08.11-17.40.58:474][777]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Audio_Cat_Meowing4D03FD87042D313C5A1BC32A3F0D76A59.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Meowing4.uasset'
+[2025.08.11-17.40.58:533][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.062 ms (total: 855.823 ms)
+[2025.08.11-17.40.58:540][777]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-17.40.58:695][778]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-17.40.58:695][778]LogContentValidation: Enabled validators:
+[2025.08.11-17.40.58:695][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-17.40.58:695][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-17.40.58:695][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-17.40.58:695][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-17.40.58:695][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-17.40.58:695][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-17.40.58:695][778]AssetCheck: /Game/Audio/Audio_Cat_Meowing4 Validation de la ressource
+[2025.08.11-17.41.01:667][787]AssetReimport: Importation d'une nouvelle ressource /Game/Audio/Audio_Cat_Meowing4.
+[2025.08.11-17.41.30:391][531]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\theoy\Downloads\Audio_Cat_Eating.mp3)
+[2025.08.11-17.41.30:426][531]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde Audio_Cat_Eating...
+[2025.08.11-17.41.30:478][531]LogAudioDerivedData: Display: Audio_Cat_Eating compressé à 25.57 % (de 1 559 Ko à 398 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.08.11-17.41.30:479][531]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Audio_Cat_Eating.Audio_Cat_Eating: Duration=36.21 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262045 bytes, ChunkN=146225)
+[2025.08.11-17.41.30:481][531]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde Audio_Cat_Eating...
+[2025.08.11-17.41.30:539][534]LogAudioDerivedData: Display: Audio_Cat_Eating compressé à 25.57 % (de 1 559 Ko à 398 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.08.11-17.41.30:541][534]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Audio_Cat_Eating.Audio_Cat_Eating: Duration=36.21 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262045 bytes, ChunkN=146225)
+[2025.08.11-17.41.57:311][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5487.798828
+[2025.08.11-17.41.58:312][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-17.41.58:312][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5488.465332, Update Interval: 311.880249
+[2025.08.11-17.42.02:756][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.08.11-17.42.02:758][192]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/NewMap' took 0.064
+[2025.08.11-17.42.02:758][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Audio_Cat_Eating] ([1] browsable assets)...
+[2025.08.11-17.42.02:765][192]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Audio_Cat_Eating.Audio_Cat_Eating]
+[2025.08.11-17.42.02:765][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Audio_Cat_Eating]
+[2025.08.11-17.42.02:765][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Audio_Cat_Eating" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Autosaves/Game/Audio/Audio_Cat_Eating_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.08.11-17.42.02:772][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Audio_Cat_Eating_Auto1
+[2025.08.11-17.42.02:772][192]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Audio_Cat_Eating_Auto1F3B5F5E8474798B20FDFB78027A8DF40.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Autosaves/Game/Audio/Audio_Cat_Eating_Auto1.uasset'
+[2025.08.11-17.42.02:773][192]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.08.11-17.43.03:003][373]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 E:/CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Step.wav)
+[2025.08.11-17.43.03:008][373]LogAudioDerivedData: Display: Génération du format audio compressé BINKA hachageBINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END onde Audio_Cat_Step...
+[2025.08.11-17.43.03:010][373]LogAudioDerivedData: Display: Audio_Cat_Step compressé à 21.94 % (de 55 Ko à 12 Ko) avec BINKA à la qualité 80 avec le modificateur de qualité 1.00
+[2025.08.11-17.43.03:010][373]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/Audio_Cat_Step.Audio_Cat_Step: Duration=0.59 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=12401 bytes, ChunkN=0)
+[2025.08.11-17.43.03:011][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-17.43.03:124][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Audio_Cat_Step] ([1] browsable assets)...
+[2025.08.11-17.43.03:128][373]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Audio_Cat_Step.Audio_Cat_Step]
+[2025.08.11-17.43.03:128][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Audio_Cat_Step]
+[2025.08.11-17.43.03:128][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Audio_Cat_Step" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Step.uasset" SILENT=true
+[2025.08.11-17.43.03:130][373]LogSavePackage: Moving output files for package: /Game/Audio/Audio_Cat_Step
+[2025.08.11-17.43.03:130][373]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Audio_Cat_Step3A377C654972CABCDEF88DB015770813.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Audio/Audio_Cat_Step.uasset'
+[2025.08.11-17.43.03:189][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.653 ms (total: 1.03 sec)
+[2025.08.11-17.43.03:199][373]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-17.43.03:356][374]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-17.43.03:356][374]LogContentValidation: Enabled validators:
+[2025.08.11-17.43.03:356][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-17.43.03:356][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-17.43.03:356][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-17.43.03:356][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-17.43.03:356][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-17.43.03:356][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-17.43.03:356][374]AssetCheck: /Game/Audio/Audio_Cat_Step Validation de la ressource
+[2025.08.11-17.43.06:196][497]AssetReimport: Importation d'une nouvelle ressource /Game/Audio/Audio_Cat_Step.
+[2025.08.11-17.43.32:373][263]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Decor/Interactive/Bowl.Bowl
+[2025.08.11-17.43.32:374][263]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.08.11-17.43.32:946][263]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.32:947][263]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.47:089][ 53]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.47:090][ 53]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.47:092][ 53]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.47:093][ 53]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.51:480][289]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.51:480][289]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.51:483][289]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.51:483][289]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.55:183][471]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.55:183][471]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.55:185][471]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.55:185][471]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.55:188][471]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.55:188][471]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.55:190][471]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.43.55:191][471]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.03:429][929]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.03:429][929]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.03:431][929]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.03:431][929]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.03:432][929]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.03:433][929]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.03:435][929]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.03:435][929]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.06:831][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-17.44.06:875][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Decor/Interactive/Bowl] ([2] browsable assets)...
+[2025.08.11-17.44.06:875][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Decor/Interactive/Bowl]
+[2025.08.11-17.44.06:875][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Decor/Interactive/Bowl" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Blueprints/Decor/Interactive/Bowl.uasset" SILENT=true
+[2025.08.11-17.44.06:887][128]LogSavePackage: Moving output files for package: /Game/Blueprints/Decor/Interactive/Bowl
+[2025.08.11-17.44.06:887][128]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Bowl614ADDDD441A2F343F588EB3190D8EB2.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Blueprints/Decor/Interactive/Bowl.uasset'
+[2025.08.11-17.44.06:936][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.094 ms (total: 1.13 sec)
+[2025.08.11-17.44.06:981][128]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-17.44.06:981][128]LogContentValidation: Enabled validators:
+[2025.08.11-17.44.06:981][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-17.44.06:981][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-17.44.06:981][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-17.44.06:981][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-17.44.06:981][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-17.44.06:981][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-17.44.06:981][128]AssetCheck: /Game/Blueprints/Decor/Interactive/Bowl Validation de la ressource
+[2025.08.11-17.44.07:311][142]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:312][142]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:313][142]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:314][142]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:418][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.11-17.44.07:422][142]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:422][142]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:424][142]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:425][142]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:433][142]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:433][142]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:435][142]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.07:436][142]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.44.54:181][271]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.11-17.44.54:181][271]LogLinker: Display: [AssetLog] E:\CreationJeux\UnrealEngine\MeowOrNever\Content\Blueprints\Decor\Interactive\Bowl.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/Decor/Interactive/Bowl.Bowl_C:End of Interaction; removing parent information, but keeping function
+[2025.08.11-17.44.54:181][271]LogLinker: Display: [AssetLog] E:\CreationJeux\UnrealEngine\MeowOrNever\Content\Blueprints\Decor\Interactive\Bowl.uasset: CreateExport: Failed to load Parent for Function /Game/Blueprints/Decor/Interactive/Bowl.Bowl_C:InteractWithCat; removing parent information, but keeping function
+[2025.08.11-17.44.54:181][271]LogUObjectGlobals: Warning: Impossible de trouver l'objet 'Class /Game/Blueprints/Decor/Interactive/Bowl.Bowl'
+[2025.08.11-17.45.12:926][511]LogEditorTransaction: Undo Nœud de mouvement
+[2025.08.11-17.45.12:964][511]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.12:964][511]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.12:968][511]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.12:968][511]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.13:399][521]LogEditorTransaction: Undo Nœud de mouvement
+[2025.08.11-17.45.13:402][521]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.13:402][521]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.13:405][521]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.13:405][521]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.15:701][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-17.45.15:737][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Decor/Interactive/Bowl] ([2] browsable assets)...
+[2025.08.11-17.45.15:737][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Decor/Interactive/Bowl]
+[2025.08.11-17.45.15:737][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Decor/Interactive/Bowl" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Blueprints/Decor/Interactive/Bowl.uasset" SILENT=true
+[2025.08.11-17.45.15:749][677]LogSavePackage: Moving output files for package: /Game/Blueprints/Decor/Interactive/Bowl
+[2025.08.11-17.45.15:749][677]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Bowl6F6914D6481BE263E292C9958B63501A.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Blueprints/Decor/Interactive/Bowl.uasset'
+[2025.08.11-17.45.15:762][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.777 ms (total: 1.20 sec)
+[2025.08.11-17.45.15:807][677]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-17.45.15:807][677]LogContentValidation: Enabled validators:
+[2025.08.11-17.45.15:807][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-17.45.15:807][677]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-17.45.15:807][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-17.45.15:808][677]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-17.45.15:808][677]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-17.45.15:808][677]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-17.45.15:808][677]AssetCheck: /Game/Blueprints/Decor/Interactive/Bowl Validation de la ressource
+[2025.08.11-17.45.16:581][725]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:581][725]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:582][725]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:583][725]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:630][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.08.11-17.45.16:634][725]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:634][725]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:636][725]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:636][725]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:643][725]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:643][725]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:645][725]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.16:645][725]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.39:799][243]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.39:800][243]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.39:804][243]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.39:804][243]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.58:632][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-17.45.58:665][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Decor/Interactive/Bowl] ([2] browsable assets)...
+[2025.08.11-17.45.58:665][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Decor/Interactive/Bowl]
+[2025.08.11-17.45.58:665][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Decor/Interactive/Bowl" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Blueprints/Decor/Interactive/Bowl.uasset" SILENT=true
+[2025.08.11-17.45.58:678][438]LogSavePackage: Moving output files for package: /Game/Blueprints/Decor/Interactive/Bowl
+[2025.08.11-17.45.58:678][438]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/Bowl54DE382E4DFE7DB529C930B7C31F6A97.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Blueprints/Decor/Interactive/Bowl.uasset'
+[2025.08.11-17.45.58:689][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.941 ms (total: 1.25 sec)
+[2025.08.11-17.45.58:720][438]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-17.45.58:720][438]LogContentValidation: Enabled validators:
+[2025.08.11-17.45.58:720][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-17.45.58:720][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-17.45.58:720][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-17.45.58:720][438]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-17.45.58:720][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-17.45.58:720][438]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-17.45.58:720][438]AssetCheck: /Game/Blueprints/Decor/Interactive/Bowl Validation de la ressource
+[2025.08.11-17.45.59:654][494]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:655][494]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:656][494]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:657][494]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:704][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.11-17.45.59:707][494]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:708][494]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:709][494]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:710][494]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:717][494]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:718][494]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:719][494]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.45.59:720][494]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.02:490][700]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.08.11-17.46.02:499][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-17.46.02:499][700]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2025.08.11-17.46.02:505][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006178s)
+[2025.08.11-17.46.02:505][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.006231s)
+[2025.08.11-17.46.02:530][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.08.11-17.46.02:532][700]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.11-17.46.02:533][700]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2025.08.11-17.46.02:534][700]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.08.11-17.46.02:534][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-17.46.02:534][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-17.46.02:534][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-17.46.02:534][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-17.46.02:534][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-17.46.02:534][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-17.46.02:534][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-17.46.02:534][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-17.46.02:534][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-17.46.02:534][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-17.46.02:534][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-17.46.02:537][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-17.46.02:610][700]LogAudioMixer: Display: Using Audio Hardware Device Enceintes (Realtek(R) Audio)
+[2025.08.11-17.46.02:610][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-17.46.02:610][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-17.46.02:610][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-17.46.02:611][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.08.11-17.46.02:611][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.08.11-17.46.02:613][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.08.11-17.46.02:613][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.08.11-17.46.02:613][700]LogInit: FAudioDevice initialized with ID 5.
+[2025.08.11-17.46.02:613][700]LogAudio: Display: Audio Device (ID: 5) registered with world 'NewMap'.
+[2025.08.11-17.46.02:613][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.08.11-17.46.02:618][700]LogLoad: Game class is 'GameModeBase'
+[2025.08.11-17.46.02:620][700]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.08.11-19.46.02
+[2025.08.11-17.46.02:620][700]LogWorld: Bringing up level for play took: 0.002377
+[2025.08.11-17.46.02:623][700]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.08.11-17.46.02:625][700]PIE: Serveur connecté
+[2025.08.11-17.46.02:628][700]PIE: Play in Editor : temps total de démarrage 0,129 secondes.
+[2025.08.11-17.46.04:778][910]LogBlueprintUserMessages: [Bowl_C_7] Can Interact
+[2025.08.11-17.46.05:851][ 20]LogBlueprintUserMessages: [Paper2D_Cat_C_1] Interact
+[2025.08.11-17.46.07:812][227]LogBlueprintUserMessages: [Bowl_C_7] Ate
+[2025.08.11-17.46.11:373][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.46.11:373][595]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2025.08.11-17.46.11:373][595]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-17.46.11:374][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.46.11:376][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-17.46.11:381][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.46.11:408][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.11-17.46.11:408][595]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.08.11-17.46.11:408][595]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.08.11-17.46.11:410][595]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.08.11-17.46.11:415][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.46.11:418][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.08.11-17.46.11:459][596]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.08.11-17.46.12:561][689]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.08.11-17.46.12:568][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-17.46.12:603][689]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2025.08.11-17.46.12:608][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004939s)
+[2025.08.11-17.46.12:608][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.004999s)
+[2025.08.11-17.46.12:633][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.08.11-17.46.12:634][689]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.11-17.46.12:635][689]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2025.08.11-17.46.12:636][689]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.08.11-17.46.12:636][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-17.46.12:636][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-17.46.12:636][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-17.46.12:636][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-17.46.12:636][689]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-17.46.12:636][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-17.46.12:636][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-17.46.12:636][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-17.46.12:636][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-17.46.12:637][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-17.46.12:637][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-17.46.12:639][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-17.46.12:702][689]LogAudioMixer: Display: Using Audio Hardware Device Enceintes (Realtek(R) Audio)
+[2025.08.11-17.46.12:703][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-17.46.12:703][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-17.46.12:703][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-17.46.12:703][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.08.11-17.46.12:703][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2025.08.11-17.46.12:706][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.08.11-17.46.12:706][689]LogInit: FAudioDevice initialized with ID 6.
+[2025.08.11-17.46.12:706][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.08.11-17.46.12:706][689]LogAudio: Display: Audio Device (ID: 6) registered with world 'NewMap'.
+[2025.08.11-17.46.12:706][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.11-17.46.12:711][689]LogLoad: Game class is 'GameModeBase'
+[2025.08.11-17.46.12:713][689]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.08.11-19.46.12
+[2025.08.11-17.46.12:713][689]LogWorld: Bringing up level for play took: 0.002328
+[2025.08.11-17.46.12:716][689]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.08.11-17.46.12:718][689]PIE: Serveur connecté
+[2025.08.11-17.46.12:720][689]PIE: Play in Editor : temps total de démarrage 0,152 secondes.
+[2025.08.11-17.46.17:756][176]LogBlueprintUserMessages: [Bowl_C_7] Can Interact
+[2025.08.11-17.46.18:391][241]LogBlueprintUserMessages: [Bowl_C_7] Can NOT Interact
+[2025.08.11-17.46.18:683][271]LogBlueprintUserMessages: [Bowl_C_7] Can Interact
+[2025.08.11-17.46.19:221][326]LogBlueprintUserMessages: [Paper2D_Cat_C_1] Interact
+[2025.08.11-17.46.21:219][533]LogBlueprintUserMessages: [Bowl_C_7] Ate
+[2025.08.11-17.46.23:716][793]LogBlueprintUserMessages: [Bowl_C_7] Can NOT Interact
+[2025.08.11-17.46.26:448][ 73]LogBlueprintUserMessages: [SleepingSpot_C_1] Can Interact
+[2025.08.11-17.46.26:628][ 91]LogBlueprintUserMessages: [SleepingSpot_C_1] End of Basic interaction
+[2025.08.11-17.46.26:628][ 91]LogBlueprintUserMessages: [SleepingSpot_C_1] Cat is Sleeping
+[2025.08.11-17.46.26:628][ 91]LogBlueprintUserMessages: [Paper2D_Cat_C_1] Interact
+[2025.08.11-17.46.27:954][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.46.27:954][218]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2025.08.11-17.46.27:954][218]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-17.46.27:954][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.46.27:956][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-17.46.27:961][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.46.27:986][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.46.27:987][218]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.11-17.46.27:987][218]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.08.11-17.46.27:989][218]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.08.11-17.46.28:023][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.11-17.46.28:059][219]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.08.11-17.46.29:813][384]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.08.11-17.46.29:823][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-17.46.29:843][384]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2025.08.11-17.46.29:848][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004918s)
+[2025.08.11-17.46.29:848][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.004968s)
+[2025.08.11-17.46.29:870][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.08.11-17.46.29:871][384]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.11-17.46.29:872][384]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2025.08.11-17.46.29:873][384]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.08.11-17.46.29:873][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-17.46.29:873][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-17.46.29:873][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-17.46.29:873][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-17.46.29:873][384]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-17.46.29:873][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-17.46.29:873][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-17.46.29:873][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-17.46.29:873][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-17.46.29:873][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-17.46.29:874][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-17.46.29:876][384]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-17.46.29:940][384]LogAudioMixer: Display: Using Audio Hardware Device Enceintes (Realtek(R) Audio)
+[2025.08.11-17.46.29:940][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-17.46.29:940][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-17.46.29:940][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-17.46.29:941][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.08.11-17.46.29:941][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2025.08.11-17.46.29:943][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.08.11-17.46.29:943][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.08.11-17.46.29:943][384]LogInit: FAudioDevice initialized with ID 7.
+[2025.08.11-17.46.29:943][384]LogAudio: Display: Audio Device (ID: 7) registered with world 'NewMap'.
+[2025.08.11-17.46.29:943][384]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.11-17.46.29:948][384]LogLoad: Game class is 'GameModeBase'
+[2025.08.11-17.46.29:951][384]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.08.11-19.46.29
+[2025.08.11-17.46.29:951][384]LogWorld: Bringing up level for play took: 0.002387
+[2025.08.11-17.46.29:954][384]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.08.11-17.46.29:955][384]PIE: Serveur connecté
+[2025.08.11-17.46.29:957][384]PIE: Play in Editor : temps total de démarrage 0,135 secondes.
+[2025.08.11-17.46.33:774][734]LogBlueprintUserMessages: [Bowl_C_7] Can Interact
+[2025.08.11-17.46.35:475][906]LogBlueprintUserMessages: [Paper2D_Cat_C_1] Interact
+[2025.08.11-17.46.37:469][110]LogBlueprintUserMessages: [Bowl_C_7] Ate
+[2025.08.11-17.46.40:673][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.46.40:673][380]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2025.08.11-17.46.40:674][380]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-17.46.40:674][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.46.40:676][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-17.46.40:682][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.46.40:712][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.46.40:712][380]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.11-17.46.40:712][380]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.08.11-17.46.40:715][380]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.08.11-17.46.40:738][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.08.11-17.46.40:779][381]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.08.11-17.46.52:143][851]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.52:144][851]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.52:145][851]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.52:146][851]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.52:148][851]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.52:148][851]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.52:150][851]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.52:151][851]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.54:216][968]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.54:217][968]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.54:220][968]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.54:220][968]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.54:222][968]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.54:222][968]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.54:225][968]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.54:226][968]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.55:764][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-17.46.55:806][ 57]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Decor/Interactive/Bowl] ([2] browsable assets)...
+[2025.08.11-17.46.55:806][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Decor/Interactive/Bowl]
+[2025.08.11-17.46.55:807][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Decor/Interactive/Bowl" FILE="../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Blueprints/Decor/Interactive/Bowl.uasset" SILENT=true
+[2025.08.11-17.46.55:825][ 57]LogSavePackage: Moving output files for package: /Game/Blueprints/Decor/Interactive/Bowl
+[2025.08.11-17.46.55:826][ 57]LogSavePackage: Moving '../../../../CreationJeux/UnrealEngine/MeowOrNever/Saved/BowlC78317A34E2CC7CBA2E379A2B8A01C65.tmp' to '../../../../CreationJeux/UnrealEngine/MeowOrNever/Content/Blueprints/Decor/Interactive/Bowl.uasset'
+[2025.08.11-17.46.55:837][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.015 ms (total: 1.32 sec)
+[2025.08.11-17.46.55:874][ 57]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-17.46.55:874][ 57]LogContentValidation: Enabled validators:
+[2025.08.11-17.46.55:875][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-17.46.55:875][ 57]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-17.46.55:875][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-17.46.55:875][ 57]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-17.46.55:875][ 57]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-17.46.55:875][ 57]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-17.46.55:875][ 57]AssetCheck: /Game/Blueprints/Decor/Interactive/Bowl Validation de la ressource
+[2025.08.11-17.46.56:338][ 80]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:339][ 80]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:340][ 80]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:341][ 80]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:393][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.08.11-17.46.56:396][ 80]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:397][ 80]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:399][ 80]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:399][ 80]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:410][ 80]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:410][ 80]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:412][ 80]LogActor: Loaded Actor (StaticMeshActor_11_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.56:412][ 80]LogActor: Loaded Actor (StaticMeshActor_10_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2025.08.11-17.46.58:702][166]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2025.08.11-17.46.58:709][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-17.46.58:709][166]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_NewMap
+[2025.08.11-17.46.58:713][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004851s)
+[2025.08.11-17.46.58:713][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/NewMap.NewMap to /Game/Levels/UEDPIE_0_NewMap.NewMap (0.004890s)
+[2025.08.11-17.46.58:740][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.08.11-17.46.58:741][166]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.08.11-17.46.58:743][166]LogPlayLevel: PIE: World Init took: (0.001725s)
+[2025.08.11-17.46.58:743][166]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.08.11-17.46.58:743][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-17.46.58:743][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-17.46.58:743][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-17.46.58:743][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-17.46.58:743][166]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-17.46.58:743][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-17.46.58:744][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-17.46.58:744][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-17.46.58:744][166]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-17.46.58:744][166]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-17.46.58:744][166]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-17.46.58:746][166]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-17.46.58:818][166]LogAudioMixer: Display: Using Audio Hardware Device Enceintes (Realtek(R) Audio)
+[2025.08.11-17.46.58:818][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-17.46.58:818][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-17.46.58:818][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-17.46.58:818][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.08.11-17.46.58:818][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2025.08.11-17.46.58:821][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.08.11-17.46.58:821][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.08.11-17.46.58:821][166]LogInit: FAudioDevice initialized with ID 8.
+[2025.08.11-17.46.58:821][166]LogAudio: Display: Audio Device (ID: 8) registered with world 'NewMap'.
+[2025.08.11-17.46.58:821][166]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.08.11-17.46.58:825][166]LogLoad: Game class is 'GameModeBase'
+[2025.08.11-17.46.58:829][166]LogWorld: Bringing World /Game/Levels/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2025.08.11-19.46.58
+[2025.08.11-17.46.58:829][166]LogWorld: Bringing up level for play took: 0.002783
+[2025.08.11-17.46.58:831][166]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.08.11-17.46.58:833][166]PIE: Serveur connecté
+[2025.08.11-17.46.58:835][166]PIE: Play in Editor : temps total de démarrage 0,127 secondes.
+[2025.08.11-17.46.59:903][223]LogBlueprintUserMessages: [SleepingSpot_C_1] Can Interact
+[2025.08.11-17.47.00:131][236]LogBlueprintUserMessages: [SleepingSpot_C_1] End of Basic interaction
+[2025.08.11-17.47.00:131][236]LogBlueprintUserMessages: [SleepingSpot_C_1] Cat is Sleeping
+[2025.08.11-17.47.00:131][236]LogBlueprintUserMessages: [Paper2D_Cat_C_1] Interact
+[2025.08.11-17.47.03:605][442]LogBlueprintUserMessages: [SleepingSpot_C_1] Slept
+[2025.08.11-17.47.03:818][455]LogBlueprintUserMessages: [SleepingSpot_C_1] Can NOT Interact
+[2025.08.11-17.47.05:441][551]LogBlueprintUserMessages: [Bowl_C_7] Can Interact
+[2025.08.11-17.47.05:912][579]LogBlueprintUserMessages: [Paper2D_Cat_C_1] Interact
+[2025.08.11-17.47.07:897][698]LogBlueprintUserMessages: [Bowl_C_7] Ate
+[2025.08.11-17.47.10:454][853]LogBlueprintUserMessages: [Bowl_C_7] Can NOT Interact
+[2025.08.11-17.47.11:982][944]LogBlueprintUserMessages: [FlowerPot_C_5] Can Interact
+[2025.08.11-17.47.12:336][961]LogBlueprintUserMessages: [FlowerPot_C_5] Can NOT Interact
+[2025.08.11-17.47.15:650][154]LogBlueprintUserMessages: [Bowl_C_7] Can Interact
+[2025.08.11-17.47.15:800][163]LogBlueprintUserMessages: [Bowl_C_7] Can NOT Interact
+[2025.08.11-17.47.16:673][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.47.16:673][213]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_NewMap
+[2025.08.11-17.47.16:673][213]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-17.47.16:674][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.47.16:676][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-17.47.16:680][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-17.47.16:707][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.11-17.47.16:708][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.08.11-17.47.16:708][213]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.08.11-17.47.16:710][213]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.08.11-17.47.16:715][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-17.47.16:718][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.08.11-17.47.16:759][214]LogPlayLevel: Display: Destroying online subsystem :Context_11
